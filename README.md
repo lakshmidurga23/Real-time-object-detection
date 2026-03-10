@@ -75,15 +75,4 @@ http://localhost:3000
 - Improve UI/UX design
 - Deploy to Vercel or Netlify
 
----
 
-## 👩‍💻 Author
-
-Lakshmi Durga  
-GitHub: https://github.com/lakshmidurga23
-
----
-
-## 📄 License
-
-This project is created for educational and learning purposes.
